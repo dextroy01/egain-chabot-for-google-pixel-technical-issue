@@ -6,8 +6,11 @@
     - pip install openai faiss-cpu numpy PyPDF2
 2. Locate openAI API key provided in slides or email
     - I did not want to include this on my Github of course
-3. Run the chatbot using the following command
+3. Download pixel 9 and pixel pro fold user manuals and add them to the userManuals folder
+    - These two pdfs are included in a google drive in the submission
+4. Run the chatbot using the following command
     - python chatbot.py
+
 
 ## Explanation of Approach 
 
